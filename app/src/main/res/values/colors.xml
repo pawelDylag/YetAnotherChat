@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorTextEdit">#FFFFFF</color>
+    <color name="colorChatSelf">@color/colorAccent</color>
+    <color name="colorChatName">#d6d6d6</color>
+    <color name="colorChatBackground">#ECEFF1</color>
+    <color name="colorChatOther">#e7e7e7</color>
+    <color name="colorChatText">#212121</color>
+    <color name="colorDivider">#464646</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorWhite">#f9f9f9</color>
+</resources>
